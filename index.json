@@ -1,4 +1,12 @@
 {
  "version": 2,
- "sets": []
+ "sets": [
+  {
+   "id": "test-pack",
+   "file": "sets/test.json",
+   "title": "آزمایشی",
+   "description": "",
+   "questions": 1
+  }
+ ]
 }
